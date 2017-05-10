@@ -1,7 +1,4 @@
 /* Author: Bikramjit Singh
- * CSE: CSE03248
- * Student ID: 211249893
- * Teacher: Natalija Vlajic
  * Project: TCP NosyServer
  */
 
